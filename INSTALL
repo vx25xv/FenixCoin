@@ -1,0 +1,9 @@
+Building FENIX
+
+See doc/readme-qt.rst for instructions on building FENIX QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FENIX.
+
+See doc/build-*.txt for instructions on building fenixd,
+the intended-for-services, no-graphical-interface, reference
+implementation of FENIX.

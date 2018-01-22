@@ -1,0 +1,26 @@
+src/*.exe
+src/fenix
+src/fenixd
+src/test_fenix
+src/build.h
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.fenix
+#compilation and Qt preprocessor part
+*.qm
+Makefile
+fenix-qt
+#resources cpp
+qrc_*.cpp
+#qt creator
+*.pro.user
+#mac specific
+.DS_Store
+build
+
+!src/leveldb/Makefile
